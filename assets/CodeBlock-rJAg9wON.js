@@ -1,0 +1,7 @@
+import{_ as i,j as r}from"./index-evXMZINe.js";import{d as m}from"./Markdown-EcXTUHPx.js";import"./helper-ZdHdqNRt.js";import"./spring-mLs2vdAE.js";import"./index-iAcAeRlm.js";import"./LinkCard-nv0Y4ktj.js";import"./Divider-Pgpf1E7z.js";import"./env-jTYMx4r5.js";import"./Collapse-Il9kvxZ9.js";import"./Gallery-WjAe9w4g.js";import"./RichLink-HEHWKpR8.js";const o=m(()=>i(()=>import("./Mermaid-vniw8-Bf.js"),__vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]),import.meta.url).then(t=>t.Mermaid)),e=m(()=>i(()=>import("./Markdown-EcXTUHPx.js").then(t=>t.C),__vite__mapDeps([3,1,2,4,5,6,7,8,9,10,11,12,13,14,15]),import.meta.url).then(t=>t.HighLighter)),x=t=>t.lang==="mermaid"?r.jsx(o,{...t}):r.jsx(e,{...t});export{x as CodeBlock,x as default};
+function __vite__mapDeps(indexes) {
+  if (!__vite__mapDeps.viteFileDeps) {
+    __vite__mapDeps.viteFileDeps = ["./Mermaid-vniw8-Bf.js","./index-evXMZINe.js","./index-TXVuxgf3.css","./Markdown-EcXTUHPx.js","./helper-ZdHdqNRt.js","./spring-mLs2vdAE.js","./index-iAcAeRlm.js","./LinkCard-nv0Y4ktj.js","./Divider-Pgpf1E7z.js","./env-jTYMx4r5.js","./LinkCard-TdGDteo_.css","./Collapse-Il9kvxZ9.js","./Gallery-WjAe9w4g.js","./Gallery-cCMf-PmV.css","./RichLink-HEHWKpR8.js","./Markdown-nufn1r_q.css"]
+  }
+  return indexes.map((i) => __vite__mapDeps.viteFileDeps[i])
+}
